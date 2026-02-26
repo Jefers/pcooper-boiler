@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { ArrowRight, Scissors } from 'lucide-react';  // Keep only used icons
+import { ArrowRight } from 'lucide-react';  // Keep only used icons
 
 gsap.registerPlugin(ScrollTrigger);
 
